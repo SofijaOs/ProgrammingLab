@@ -24,7 +24,5 @@ class CsvFile():
         return lista 
         
         
-nomefile=CsvFile('shampoo_sales.csv')
-nomefile.get_data()
-print(nomefile.nome)
-print(nomefile.get_data())
+#nomefile=CsvFile('shampoo_sales.csv')
+#print(nomefile.get_data())
