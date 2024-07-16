@@ -3,7 +3,7 @@
 Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale e per Statistica dell'Università degli studi di Trieste.
 
                                                    INFORMAZIONI
-Proprietario: Sofija Osmani.
+Owner: Sofija Osmani.
 
 Repository  esercizi proposti durante il corso di Programmazione Python condotto dal prof. Russo
 
