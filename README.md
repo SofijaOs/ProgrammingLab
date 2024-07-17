@@ -1,8 +1,6 @@
                                           PROGRAMMING LAB 2024  PYTHON
-                                          
-Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale e per Statistica dell'Università degli studi di Trieste.
-
-                                                   INFORMAZIONI
+                                                INFORMAZIONI
+                                                
 Author: Sofija Osmani.
 
 Repository  esercizi proposti durante il corso di Programmazione Python condotto dal prof. Russo
