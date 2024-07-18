@@ -3,7 +3,7 @@
                                                 
 Author: Sofija Osmani.
 
-Repository  esercizi proposti durante il corso di Programmazione Python condotto dal prof. Russo
+Repo  esercizi proposti durante il corso di Programmazione Python condotto dal prof. Russo
 
                                                   INDICE DEGLI ESERCIZI
 e1. Scrivete una funzione sum_list(my_list) che sommi tutti gli elementi di una lista.
