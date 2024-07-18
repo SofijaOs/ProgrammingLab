@@ -32,4 +32,14 @@ L’input del metodo predict() e’ una lista di valori per gli n mesi passati
 e7.Estendete il modello della lezione precedente IncrementModel come FitIncrementModel, andando ad implementare il metodo fit().
 Il fit deve, come appena descritto, calcolare l’incremento medio su tutto il dataset e salvarlo da qualche parte (es: self.global_avg_increment).
 Poi sovrascrivete il metodo predict() in modo che usi l’incremento medio su tutto il dataset come descritto nelle slides precedenti.
+
+
+
+    
+                                                     LICENZA D'USO
+Copyright © Sofija Osmani.
+
+I materiali sono distribuiti sotto licenza Creative Commons Attribution-ShareAlike 4.0 International License, che vuol dire grossomodo che a condizione di citare l'autore e di utilizzare la stessa tipologia di licenza, questi possono essere liberamente copiati, modificati, usati per creare opere derivate e ridistribuiti.
+
+
                  
